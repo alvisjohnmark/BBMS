@@ -136,6 +136,7 @@ const SecretaryLogin = () => {
             <p className="text-xs text-gray-400">
               © 2025 Barangay Management System. All rights reserved.
             </p>
+            <p>test</p>
           </div>
         </div>
       </div>
